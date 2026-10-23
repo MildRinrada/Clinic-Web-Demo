@@ -1,0 +1,1 @@
+import{j as o}from"./index-rbQINYKC.js";import{P as a}from"./page-loading-CSpSkDty.js";import{u as i}from"./ui-text-CUIj806k.js";function n(){return o.jsx(a,{label:i.loadingPage})}export{n as default};

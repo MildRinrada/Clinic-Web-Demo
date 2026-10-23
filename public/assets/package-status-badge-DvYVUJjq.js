@@ -1,0 +1,1 @@
+import{j as e}from"./index-rbQINYKC.js";import{B as o}from"./badge-C_xl02-9.js";import{a as r}from"./crm-labels-hDIqr2bc.js";function i({status:a}){const t=r[a];return e.jsx(o,{tone:t.tone,children:t.text})}export{i as P};
