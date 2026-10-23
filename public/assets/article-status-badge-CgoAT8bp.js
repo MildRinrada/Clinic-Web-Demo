@@ -1,1 +1,0 @@
-import{j as r}from"./index-rbQINYKC.js";import{B as a}from"./badge-C_xl02-9.js";import{a as o}from"./staff-articles-DgzOp60f.js";function m({status:e}){const t=o[e];return r.jsx(a,{tone:t.tone,children:t.text})}export{m as A};
