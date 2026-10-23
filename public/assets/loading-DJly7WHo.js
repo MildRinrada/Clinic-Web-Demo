@@ -1,1 +1,0 @@
-import{j as a}from"./index-VIN9QvDA.js";import{P as o}from"./page-loading-Cc5QpHH9.js";import{u as t}from"./ui-text-CUIj806k.js";function f(){return a.jsx(o,{label:t.loadingPage})}export{f as default};
