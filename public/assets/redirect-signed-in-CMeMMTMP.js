@@ -1,1 +1,0 @@
-import{c as a,b as i}from"./index-CFkc9Kxr.js";import{g as c}from"./getMe-DlaNc5vZ.js";import{d as f}from"./home-path-DwLFuJLi.js";async function u(o){if(!await a())return;let e;try{e=await c()}catch{return}const r=e.memberships.some(t=>t.type==="staff"&&t.staff_id),s=e.memberships.some(t=>t.type==="customer"&&t.customer_id);!r&&!s||i(f({staff:r,customer:s},o))}export{u as r};
